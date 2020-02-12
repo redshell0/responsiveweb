@@ -97,7 +97,9 @@ section:nth-child(odd) {
         margin: 50px 0 0;
         max-width: 100%;
     }
-
+    header {
+        padding: 0 30px;
+    }
     header ul {
         position: absolute;
         top: -100%;
